@@ -1,0 +1,11 @@
+# R session and IDE state
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
